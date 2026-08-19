@@ -1,0 +1,8 @@
+[1mdiff --git a/app.js b/app.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fdc1dda[m
+[1m--- /dev/null[m
+[1m+++ b/app.js[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m// add new feature[m
+\ No newline at end of file[m
